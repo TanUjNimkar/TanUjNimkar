@@ -1,5 +1,17 @@
-# 💫 About Me:
-🔭 I’m currently working on: Automating infrastructure and CI/CD pipelines at Swiftsoft Infotech.<br>👯 I’m looking to collaborate on: Open-source DevOps tools and cloud-native automation projects.<br>🤝 I’m looking for help with: Scaling distributed systems and advanced Kubernetes orchestration.<br>🌱 I’m currently learning: Site Reliability Engineering (SRE) and Terraform for Infrastructure as Code.<br>💬 Ask me about: AWS, Python, Docker, Jenkins, and Bash Scripting.<br>⚡ Fun fact: I believe that if you have to do it more than twice, you should automate it!.
+# Hey there! I'm Tanuj Nimkar 👋
+
+> *"If you have to do it more than twice — automate it."*
+
+## 🚀 About Me
+
+I'm a **DevOps Engineer** at **Swiftsoft Infotech**, passionate about turning manual chaos into elegant automated pipelines. I live at the intersection of infrastructure, code, and reliability — building systems that scale and deploy with confidence.
+
+- 🔭 Currently automating **CI/CD pipelines & cloud infrastructure**
+- 🌱 Deep-diving into **SRE principles** and **Terraform / Infrastructure as Code**
+- 🤝 Open to collaborating on **open-source DevOps & cloud-native projects**
+- 🧩 Seeking expertise in **distributed systems scaling** and **advanced Kubernetes orchestration**
+- 💬 Ask me about **AWS · Python · Docker · Jenkins · Bash Scripting**
+- ⚡ Fun fact: Automation isn't laziness — it's engineering discipline
 
 
 # 💻 Tech Stack:
