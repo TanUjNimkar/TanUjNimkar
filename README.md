@@ -1,87 +1,84 @@
-# Hey there! I'm Tanuj Nimkar 👋
+<h1 align="center">Hi 👋, I'm Tanuj Nimkar</h1>
+<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation First</h3>
 
-<div align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Automation+%7C+CI%2FCD+%7C+Infrastructure;Building+Scalable+Systems)](https://git.io/typing-svg)
-
-</div>
-
-> *"If you have to do it more than twice — automate it."*
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;CI%2FCD+Automation+Specialist;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code;Always+Automating" />
+</p>
 
 ---
 
-## 🚀 About Me
+### 🚀 About Me
 
-I'm a **DevOps Engineer** at **Swiftsoft Infotech**, passionate about turning manual chaos into elegant automated pipelines. I live at the intersection of infrastructure, code, and reliability — building systems that scale and deploy with confidence.
+- 🔭 DevOps Engineer at Swiftsoft Infotech
+- ☁️ Working with AWS, Docker, Kubernetes & CI/CD
+- 🌱 Learning Terraform, SRE and Cloud-Native Technologies
+- 🤝 Open to collaborating on DevOps and Open Source Projects
+- 💬 Ask me about AWS, Jenkins, Docker, Python and Linux
+- ⚡ Motto: "If you have to do it more than twice — automate it."
 
-```yaml
-currently_working_on: ["CI/CD pipelines", "Cloud Infrastructure", "Automation"]
-learning: ["SRE Principles", "Terraform", "Infrastructure as Code", "Kubernetes Advanced Patterns"]
-collaboration: "Open to DevOps & Cloud-Native Open Source Projects"
-expertise_seeking: ["Distributed Systems Scaling", "Advanced K8s Orchestration"]
-ask_me_about: ["AWS", "Python", "Docker", "Jenkins", "Bash Scripting", "CI/CD Best Practices"]
-fun_fact: "Automation isn't laziness — it's engineering discipline ⚡"
+---
 
-💻 Tech Stack
-☁️ Cloud & Infrastructure
+### 🛠️ Tech Stack
 
-AWS
-Azure
-Terraform
-🛠️ DevOps & Automation
+#### Cloud & DevOps
 
-Docker
-Kubernetes
-Jenkins
-Ansible
-GitHub Actions
-💻 Languages & Scripting
+<p>
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,githubactions,linux,bash,git,github,gitlab,azure" />
+</p>
 
-Python
-Bash Script
-Apache Groovy
-🔄 CI/CD & Version Control
+#### Programming
 
-Git
-GitHub
-GitLab
-Bitbucket
-🌐 Web Servers & Build Tools
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+</p>
 
-Nginx
-Apache
-Apache Tomcat
-Apache Maven
-Gradle
-📊 Monitoring & Databases
+#### Databases
 
-Grafana
-MySQL
-MongoDB
-AmazonDynamoDB
-📋 Project Management & Messaging
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+</p>
 
-Jira
-Apache Kafka
-📊 GitHub Stats
-<div align="center">
+---
 
-</div>
-🏆 GitHub Trophies
-<div align="center">
+### 📊 GitHub Stats
 
-</div>
-📫 Let's Connect
-<div align="center">
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-LinkedIn
-Twitter
-Email
-</div><div align="center">
-💡 "The best time to automate was yesterday. The second best time is now."
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanUjNimkar&theme=tokyonight&hide_border=true"/>
+</p>
 
-</div><div align="center">
+---
 
-💼 Open for DevOps/SRE opportunities | 🤝 Available for consulting | 🌟 Let's build something amazing!
-</div><!-- Proudly created with passion for DevOps -->
+### 🏆 Achievements
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=TanUjNimkar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+</p>
+
+---
+
+### 📈 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanUjNimkar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+</p>
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+⭐ Building reliable systems through automation and cloud-native engineering.
+</p>
