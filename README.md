@@ -1,27 +1,87 @@
 # Hey there! I'm Tanuj Nimkar 👋
 
+<div align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=DevOps+Engineer+%7C+Cloud+Enthusiast;Automation+%7C+CI%2FCD+%7C+Infrastructure;Building+Scalable+Systems)](https://git.io/typing-svg)
+
+</div>
+
 > *"If you have to do it more than twice — automate it."*
+
+---
 
 ## 🚀 About Me
 
 I'm a **DevOps Engineer** at **Swiftsoft Infotech**, passionate about turning manual chaos into elegant automated pipelines. I live at the intersection of infrastructure, code, and reliability — building systems that scale and deploy with confidence.
 
-- 🔭 Currently automating **CI/CD pipelines & cloud infrastructure**
-- 🌱 Deep-diving into **SRE principles** and **Terraform / Infrastructure as Code**
-- 🤝 Open to collaborating on **open-source DevOps & cloud-native projects**
-- 🧩 Seeking expertise in **distributed systems scaling** and **advanced Kubernetes orchestration**
-- 💬 Ask me about **AWS · Python · Docker · Jenkins · Bash Scripting**
-- ⚡ Fun fact: Automation isn't laziness — it's engineering discipline
+```yaml
+currently_working_on: ["CI/CD pipelines", "Cloud Infrastructure", "Automation"]
+learning: ["SRE Principles", "Terraform", "Infrastructure as Code", "Kubernetes Advanced Patterns"]
+collaboration: "Open to DevOps & Cloud-Native Open Source Projects"
+expertise_seeking: ["Distributed Systems Scaling", "Advanced K8s Orchestration"]
+ask_me_about: ["AWS", "Python", "Docker", "Jenkins", "Bash Scripting", "CI/CD Best Practices"]
+fun_fact: "Automation isn't laziness — it's engineering discipline ⚡"
 
+💻 Tech Stack
+☁️ Cloud & Infrastructure
 
-# 💻 Tech Stack:
-![Apache Groovy](https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![Apache Tomcat](https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Bitbucket](https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white) ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=TanUjNimkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=TanUjNimkar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+AWS
+Azure
+Terraform
+🛠️ DevOps & Automation
 
----
-[![](https://visitcount.itsvg.in/api?id=TanUjNimkar&icon=0&color=0)](https://visitcount.itsvg.in)
+Docker
+Kubernetes
+Jenkins
+Ansible
+GitHub Actions
+💻 Languages & Scripting
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+Python
+Bash Script
+Apache Groovy
+🔄 CI/CD & Version Control
+
+Git
+GitHub
+GitLab
+Bitbucket
+🌐 Web Servers & Build Tools
+
+Nginx
+Apache
+Apache Tomcat
+Apache Maven
+Gradle
+📊 Monitoring & Databases
+
+Grafana
+MySQL
+MongoDB
+AmazonDynamoDB
+📋 Project Management & Messaging
+
+Jira
+Apache Kafka
+📊 GitHub Stats
+<div align="center">
+
+</div>
+🏆 GitHub Trophies
+<div align="center">
+
+</div>
+📫 Let's Connect
+<div align="center">
+
+LinkedIn
+Twitter
+Email
+</div><div align="center">
+💡 "The best time to automate was yesterday. The second best time is now."
+
+</div><div align="center">
+
+💼 Open for DevOps/SRE opportunities | 🤝 Available for consulting | 🌟 Let's build something amazing!
+</div><!-- Proudly created with passion for DevOps -->
+
