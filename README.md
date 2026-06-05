@@ -1,56 +1,112 @@
-# Hi 👋 I'm Tanuj Nimkar
+<h1 align="center">🚀 Tanuj Nimkar</h1>
 
-### DevOps Engineer | AWS | Kubernetes | CI/CD Automation
+<h3 align="center">DevOps Engineer • Cloud Enthusiast • Automation First</h3>
 
-> "If you have to do it more than twice — automate it."
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Enthusiast;Building+Scalable+Cloud+Systems" />
+</p>
 
----
-
-## 🚀 About Me
-
-- 🔭 DevOps Engineer at Swiftsoft Infotech
-- ☁️ Working with AWS, Docker, Kubernetes & CI/CD
-- 🌱 Learning Terraform, SRE & Cloud-Native Technologies
-- 🤝 Open to Open Source & DevOps Projects
-- 💬 Ask me about AWS, Docker, Jenkins, Linux & Python
-- ⚡ Passionate about automation and scalable infrastructure
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=TanUjNimkar&label=PROFILE+VIEWS&color=0e75b6&style=for-the-badge" />
+</p>
 
 ---
 
-## 🛠️ Tech Stack
+## 👨‍💻 About Me
 
-### Cloud & Infrastructure
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
+I'm a DevOps Engineer at Swiftsoft Infotech passionate about automation, cloud infrastructure, and building reliable deployment pipelines.
 
-### DevOps
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
-
-### Version Control
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+- 🔭 Working on CI/CD automation and cloud infrastructure
+- 🌱 Learning Terraform, SRE, and advanced Kubernetes
+- ☁️ AWS & Cloud Native Technologies
+- 🤝 Open to DevOps and Open Source collaborations
+- 💬 Ask me about AWS, Docker, Kubernetes, Jenkins, Python, and Linux
+- ⚡ "If you have to do it more than twice — automate it."
 
 ---
 
-## 📈 GitHub Activity
+## ⚙️ Tech Stack
 
-![Profile Views](https://komarev.com/ghpvc/?username=TanUjNimkar&style=for-the-badge)
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
-- Email: your-email@example.com
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,ansible,githubactions,gitlab,github,git,linux,bash,python,mysql,mongodb&perline=8" />
+</p>
 
 ---
 
-### ⭐ Building reliable systems through automation and cloud-native engineering.
+## 📊 GitHub Stats
+
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=TanUjNimkar&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 Activity Graph
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanUjNimkar&theme=tokyo-night&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=TanUjNimkar&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10" />
+</p>
+
+---
+
+## ☁️ DevOps Philosophy
+
+```text
+Code
+  ↓
+Build
+  ↓
+Test
+  ↓
+Docker
+  ↓
+Deploy
+  ↓
+Monitor
+
+Automation > Manual Work
+Infrastructure as Code > ClickOps
+Observability > Guesswork
+```
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+
+<a href="https://www.linkedin.com/in/tanuj-nimkar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+⭐ Building reliable systems through automation and cloud-native engineering.
+</p>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+<img src="https://raw.githubusercontent.com/TanUjNimkar/TanUjNimkar/output/github-contribution-grid-snake-dark.svg" />
+</p>
