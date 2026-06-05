@@ -1,13 +1,11 @@
-<h1 align="center">🚀 Hi, I'm Tanuj Nimkar</h1>
-
-<h3 align="center">DevOps Engineer • Cloud Enthusiast • Automation First</h3>
+<h1 align="center">Hi 👋, I'm Tanuj Nimkar</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Advocate;Building+Scalable+Cloud+Systems" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code;Building+Reliable+Cloud+Systems" />
 </p>
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=TanUjNimkar&label=Profile+Views&color=0e75b6&style=for-the-badge" />
+  <img src="https://komarev.com/ghpvc/?username=TanUjNimkar&style=flat-square&color=blue" />
 </p>
 
 ---
@@ -22,15 +20,14 @@ role: DevOps Engineer
 company: Swiftsoft Infotech
 
 focus:
-  - AWS Cloud
+  - Cloud Infrastructure
   - CI/CD Automation
-  - Docker & Kubernetes
-  - Infrastructure Management
+  - Kubernetes
+  - Reliability Engineering
 
 currently_learning:
   - Terraform
-  - Site Reliability Engineering
-  - Advanced Kubernetes
+  - SRE
   - Distributed Systems
 
 motto:
@@ -39,7 +36,7 @@ motto:
 
 ---
 
-## ⚙️ Tech Stack
+## ⚙️ Technology Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,ansible,githubactions,gitlab,github,git,linux,bash,python,mysql,mongodb&perline=8" />
@@ -47,80 +44,55 @@ motto:
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <p align="center">
-<img height="170" src="https://github-readme-stats-tanuj.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-
-<img height="170" src="https://github-readme-stats-tanuj.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true" />
+<img height="180" src="https://github-readme-stats-tanuj.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="180" src="https://github-readme-stats-tanuj.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
-## ☁️ DevOps Workflow
+## ☁️ DevOps Philosophy
 
 ```text
-          ┌────────────┐
-          │   CODE     │
-          └─────┬──────┘
-                │
-                ▼
-          ┌────────────┐
-          │   BUILD    │
-          └─────┬──────┘
-                │
-                ▼
-          ┌────────────┐
-          │    TEST    │
-          └─────┬──────┘
-                │
-                ▼
-          ┌────────────┐
-          │   DOCKER   │
-          └─────┬──────┘
-                │
-                ▼
-          ┌────────────┐
-          │   DEPLOY   │
-          └─────┬──────┘
-                │
-                ▼
-          ┌────────────┐
-          │  MONITOR   │
-          └────────────┘
+Code → Build → Test → Package → Deploy → Monitor
+
+Automation > Manual Work
+Infrastructure as Code > ClickOps
+Observability > Guesswork
 ```
 
 ---
 
 ## 🎯 Core Expertise
 
-- ☁️ AWS Cloud Infrastructure
-- 🚀 CI/CD Pipeline Automation
-- 🐳 Docker Containerization
-- ☸️ Kubernetes Orchestration
-- 🔧 Jenkins & GitHub Actions
-- 🐧 Linux Administration
-- 📝 Bash & Python Scripting
-- 📊 Monitoring & Observability
+• AWS Cloud Infrastructure
+
+• Docker & Kubernetes
+
+• Jenkins & GitHub Actions
+
+• Infrastructure Automation
+
+• Linux Administration
+
+• Bash & Python Scripting
+
+• Monitoring & Observability
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <p align="center">
-
 <a href="https://www.linkedin.com/in/tanuj-nimkar">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
 </p>
 
 ---
 
 <p align="center">
-💡 <strong>Automation isn't laziness — it's engineering discipline.</strong>
-</p>
-
-<p align="center">
-⭐ Building reliable systems through automation and cloud-native engineering.
+<i>Building scalable systems through automation and cloud-native engineering.</i>
 </p>
