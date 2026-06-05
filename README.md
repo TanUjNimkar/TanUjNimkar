@@ -1,11 +1,9 @@
 <h1 align="center">Hi 👋, I'm Tanuj Nimkar</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code;Building+Reliable+Cloud+Systems" />
-</p>
+<h3 align="center">DevOps Engineer • Cloud Enthusiast • Automation First</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanUjNimkar&style=flat-square&color=blue" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code;Building+Reliable+Cloud+Systems" />
 </p>
 
 ---
@@ -19,15 +17,16 @@ role: DevOps Engineer
 
 company: Swiftsoft Infotech
 
-focus:
-  - Cloud Infrastructure
+specialization:
+  - AWS Cloud Infrastructure
   - CI/CD Automation
-  - Kubernetes
-  - Reliability Engineering
+  - Docker & Kubernetes
+  - Linux Administration
 
 currently_learning:
   - Terraform
-  - SRE
+  - Site Reliability Engineering
+  - Advanced Kubernetes
   - Distributed Systems
 
 motto:
@@ -36,7 +35,17 @@ motto:
 
 ---
 
-## ⚙️ Technology Stack
+## 🔭 Current Focus
+
+- 🚀 Automating CI/CD pipelines
+- ☁️ Managing cloud infrastructure on AWS
+- 🏗️ Learning Terraform & Infrastructure as Code
+- ☸️ Exploring advanced Kubernetes patterns
+- 📈 Improving reliability through SRE practices
+
+---
+
+## ⚙️ Tech Stack
 
 <p align="center">
 <img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,jenkins,ansible,githubactions,gitlab,github,git,linux,bash,python,mysql,mongodb&perline=8" />
@@ -53,6 +62,19 @@ motto:
 
 ---
 
+## 🎯 Core Expertise
+
+- ☁️ AWS Cloud Infrastructure
+- 🚀 CI/CD Pipeline Automation
+- 🐳 Docker Containerization
+- ☸️ Kubernetes Orchestration
+- 🔧 Jenkins & GitHub Actions
+- 🐧 Linux Administration
+- 📝 Bash & Python Automation
+- 📊 Monitoring & Observability
+
+---
+
 ## ☁️ DevOps Philosophy
 
 ```text
@@ -65,25 +87,23 @@ Observability > Guesswork
 
 ---
 
-## 🎯 Core Expertise
+## 📌 Featured Areas
 
-• AWS Cloud Infrastructure
+### 🚀 CI/CD Automation
+Designing automated build, test, and deployment pipelines for faster and safer releases.
 
-• Docker & Kubernetes
+### ☁️ Cloud Infrastructure
+Building scalable and reliable cloud environments using AWS best practices.
 
-• Jenkins & GitHub Actions
+### ☸️ Container Orchestration
+Deploying and managing containerized workloads with Docker and Kubernetes.
 
-• Infrastructure Automation
-
-• Linux Administration
-
-• Bash & Python Scripting
-
-• Monitoring & Observability
+### 🛠 Infrastructure as Code
+Moving towards fully automated infrastructure provisioning and management.
 
 ---
 
-## 🌐 Connect
+## 🌐 Connect With Me
 
 <p align="center">
 <a href="https://www.linkedin.com/in/tanuj-nimkar">
@@ -94,5 +114,5 @@ Observability > Guesswork
 ---
 
 <p align="center">
-<i>Building scalable systems through automation and cloud-native engineering.</i>
+  <i>Building scalable systems through automation, cloud-native engineering, and DevOps best practices.</i>
 </p>
