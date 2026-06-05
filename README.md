@@ -1,84 +1,56 @@
-<h1 align="center">Hi 👋, I'm Tanuj Nimkar</h1>
-<h3 align="center">DevOps Engineer | Cloud Enthusiast | Automation First</h3>
+# Hi 👋 I'm Tanuj Nimkar
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=DevOps+Engineer;CI%2FCD+Automation+Specialist;AWS+%7C+Docker+%7C+Kubernetes;Infrastructure+as+Code;Always+Automating" />
-</p>
+### DevOps Engineer | AWS | Kubernetes | CI/CD Automation
+
+> "If you have to do it more than twice — automate it."
 
 ---
 
-### 🚀 About Me
+## 🚀 About Me
 
 - 🔭 DevOps Engineer at Swiftsoft Infotech
 - ☁️ Working with AWS, Docker, Kubernetes & CI/CD
-- 🌱 Learning Terraform, SRE and Cloud-Native Technologies
-- 🤝 Open to collaborating on DevOps and Open Source Projects
-- 💬 Ask me about AWS, Jenkins, Docker, Python and Linux
-- ⚡ Motto: "If you have to do it more than twice — automate it."
+- 🌱 Learning Terraform, SRE & Cloud-Native Technologies
+- 🤝 Open to Open Source & DevOps Projects
+- 💬 Ask me about AWS, Docker, Jenkins, Linux & Python
+- ⚡ Passionate about automation and scalable infrastructure
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-#### Cloud & DevOps
+### Cloud & Infrastructure
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,jenkins,ansible,githubactions,linux,bash,git,github,gitlab,azure" />
-</p>
+### DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white)
 
-#### Programming
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white)
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-#### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TanUjNimkar&theme=tokyonight&hide_border=true"/>
-</p>
+### Version Control
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
 
-### 🏆 Achievements
+## 📈 GitHub Activity
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=TanUjNimkar&theme=tokyonight&no-frame=true&row=1&column=6"/>
-</p>
+![Profile Views](https://komarev.com/ghpvc/?username=TanUjNimkar&style=for-the-badge)
 
 ---
 
-### 📈 Profile Views
+## 📫 Connect With Me
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=TanUjNimkar&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-</p>
-
----
-
-### 📫 Connect With Me
-
-<p align="left">
-<a href="https://linkedin.com/in/YOUR-LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-</p>
+- LinkedIn: https://linkedin.com/in/YOUR-LINKEDIN
+- Email: your-email@example.com
 
 ---
 
-<p align="center">
-⭐ Building reliable systems through automation and cloud-native engineering.
-</p>
+### ⭐ Building reliable systems through automation and cloud-native engineering.
