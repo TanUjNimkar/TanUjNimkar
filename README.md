@@ -1,14 +1,20 @@
-<h1 align="center">Hi 👋, I'm Tanuj Nimkar</h1>
-
-<h3 align="center">DevOps Engineer • Cloud Enthusiast • Automation First</h3>
+<h1 align="center">🚀 Tanuj Nimkar</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=750&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code;Building+Reliable+Cloud+Systems" />
+  <b>DevOps Engineer • Cloud Enthusiast • Automation First</b>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1000&color=36BCF7&center=true&vCenter=true&width=850&lines=DevOps+Engineer;AWS+%7C+Docker+%7C+Kubernetes;CI%2FCD+Automation+Specialist;Infrastructure+as+Code+Advocate;Building+Reliable+and+Scalable+Systems" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=TanUjNimkar&label=Profile+Views&color=0e75b6&style=flat-square" />
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
 ```yaml
 name: Tanuj Nimkar
@@ -17,11 +23,12 @@ role: DevOps Engineer
 
 company: Swiftsoft Infotech
 
-specialization:
+focus:
   - AWS Cloud Infrastructure
   - CI/CD Automation
   - Docker & Kubernetes
   - Linux Administration
+  - Reliability Engineering
 
 currently_learning:
   - Terraform
@@ -35,13 +42,13 @@ motto:
 
 ---
 
-## 🔭 Current Focus
+## 🚀 Current Focus
 
-- 🚀 Automating CI/CD pipelines
-- ☁️ Managing cloud infrastructure on AWS
-- 🏗️ Learning Terraform & Infrastructure as Code
-- ☸️ Exploring advanced Kubernetes patterns
-- 📈 Improving reliability through SRE practices
+- 🔭 Building scalable CI/CD pipelines
+- ☁️ Managing AWS cloud infrastructure
+- 🏗️ Learning Infrastructure as Code with Terraform
+- ☸️ Exploring advanced Kubernetes orchestration
+- 📈 Applying Site Reliability Engineering practices
 
 ---
 
@@ -53,32 +60,57 @@ motto:
 
 ---
 
-## 📊 GitHub Overview
+## 📊 GitHub Analytics
 
 <p align="center">
 <img height="180" src="https://github-readme-stats-tanuj.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
 <img height="180" src="https://github-readme-stats-tanuj.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔥 Contribution Streak
+
+<p align="center">
+<img src="https://streak-stats.demolab.com?user=TanUjNimkar&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ## 🎯 Core Expertise
 
-- ☁️ AWS Cloud Infrastructure
-- 🚀 CI/CD Pipeline Automation
-- 🐳 Docker Containerization
-- ☸️ Kubernetes Orchestration
-- 🔧 Jenkins & GitHub Actions
-- 🐧 Linux Administration
-- 📝 Bash & Python Automation
-- 📊 Monitoring & Observability
+<div align="center">
+
+☁️ AWS Cloud Infrastructure • 🚀 CI/CD Automation • 🐳 Docker
+
+☸️ Kubernetes • 🔧 Jenkins • 🐧 Linux Administration
+
+📝 Bash & Python Automation • 📊 Monitoring & Observability
+
+</div>
 
 ---
 
 ## ☁️ DevOps Philosophy
 
 ```text
-Code → Build → Test → Package → Deploy → Monitor
+        Code
+          │
+          ▼
+       Build
+          │
+          ▼
+        Test
+          │
+          ▼
+       Docker
+          │
+          ▼
+       Deploy
+          │
+          ▼
+      Monitor
 
 Automation > Manual Work
 Infrastructure as Code > ClickOps
@@ -90,16 +122,16 @@ Observability > Guesswork
 ## 📌 Featured Areas
 
 ### 🚀 CI/CD Automation
-Designing automated build, test, and deployment pipelines for faster and safer releases.
+Automating software delivery pipelines for faster and safer deployments.
 
 ### ☁️ Cloud Infrastructure
-Building scalable and reliable cloud environments using AWS best practices.
+Designing and managing scalable cloud environments on AWS.
 
 ### ☸️ Container Orchestration
-Deploying and managing containerized workloads with Docker and Kubernetes.
+Deploying and operating applications with Docker and Kubernetes.
 
-### 🛠 Infrastructure as Code
-Moving towards fully automated infrastructure provisioning and management.
+### 🏗️ Infrastructure as Code
+Building repeatable infrastructure using Terraform and automation tools.
 
 ---
 
@@ -114,5 +146,9 @@ Moving towards fully automated infrastructure provisioning and management.
 ---
 
 <p align="center">
-  <i>Building scalable systems through automation, cloud-native engineering, and DevOps best practices.</i>
+  <b>💡 Automation isn't laziness — it's engineering discipline.</b>
+</p>
+
+<p align="center">
+  ⭐ Building reliable systems through automation, cloud-native engineering, and DevOps best practices.
 </p>
