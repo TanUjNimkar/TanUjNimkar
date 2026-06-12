@@ -19,7 +19,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Tanuj%20Nimkar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   &nbsp;
-  <a href="mailto:tanuj.nimkar@email.com">
+  <a href="mailto:tanujnimkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   &nbsp;
@@ -202,7 +202,7 @@ Playbooks are organized by role with idempotent task design, ensuring safe re-ex
 <div align="center">
 
 ### DevOps Engineer — Swiftsoft Infotech
-**Hyd, India**
+**Hyderabad, India**
 
 </div>
 
@@ -253,14 +253,24 @@ Engineering and operating cloud infrastructure and automation systems that suppo
 
 <div align="center">
 
-**AWS**
+**Amazon Web Services**
 
-<img src="https://img.shields.io/badge/AWS%20Cloud%20Practitioner-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
-&nbsp;
-<img src="https://img.shields.io/badge/AWS%20Solutions%20Architect-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900" />
+<br>
+
+<a href="#">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Cloud%20Practitioner-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+</a>
+&nbsp;&nbsp;
+<a href="#">
+  <img src="https://img.shields.io/badge/AWS%20Certified-Solutions%20Architect%20Associate-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white&labelColor=232F3E" />
+</a>
 
 <br><br>
 
+| Certification | Issuer | Level | Status |
+|:---|:---:|:---:|:---:|
+| AWS Certified Cloud Practitioner | Amazon Web Services | Foundational | Active |
+| AWS Certified Solutions Architect — Associate | Amazon Web Services | Associate | Active |
 
 </div>
 
