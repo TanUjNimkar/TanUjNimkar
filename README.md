@@ -57,7 +57,7 @@ I specialize in container orchestration with Kubernetes, configuration managemen
 **Languages & Scripting**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,yaml&perline=6" />
+  <img src="https://skillicons.dev/icons?i=bash,python,yaml,typescript,html&perline=8" />
 </p>
 
 **Cloud & Infrastructure**
@@ -99,8 +99,8 @@ I specialize in container orchestration with Kubernetes, configuration managemen
 | Linux Administration | ████████░░ Advanced | RHEL/Ubuntu/CentOS, system tuning, cron, networking |
 | Monitoring & Observability | ███████░░░ Proficient | Prometheus, Grafana, CloudWatch, alerting pipelines |
 | Scripting & Automation | ███████░░░ Proficient | Bash, Python, task automation, operational tooling |
+| GitOps & Argo CD | ██████░░░░ Proficient | Argo CD, Flux, declarative deployment workflows |
 | Site Reliability Engineering | █████░░░░░ Growing | SLOs, SLIs, error budgets, incident management |
-| Distributed Systems | ████░░░░░░ Learning | Architecture patterns, fault tolerance, service design |
 | Security & Compliance | ██████░░░░ Proficient | IAM policies, secrets management, network segmentation |
 
 </div>
@@ -110,22 +110,88 @@ I specialize in container orchestration with Kubernetes, configuration managemen
 ## Featured Projects
 
 <details>
-<summary><b>Enterprise-Grade CI/CD Automation Pipeline</b></summary>
+<summary><b>end-to-end-devops-cicd-pipeline</b></summary>
 
 <br>
 
-A production-grade, end-to-end CI/CD pipeline designed to automate the entire software delivery lifecycle from source commit to production deployment, incorporating automated testing gates, Docker image building, registry push, Kubernetes rolling deployments, and post-deployment health verification.
+A production-grade, end-to-end CI/CD pipeline designed to automate the entire software delivery lifecycle from source commit to production deployment. Built on Jenkins, the pipeline incorporates automated testing gates, Docker image building, container registry push, Kubernetes rolling deployments, and post-deployment health verification — eliminating manual intervention at every stage of the delivery process.
 
 | Attribute | Details |
 |:---|:---|
-| **Stack** | Jenkins · Docker · Kubernetes · AWS ECR · Helm · Bash · Python |
+| **Stack** | Jenkins · Docker · Kubernetes · AWS ECR · Helm · Bash · HTML |
 | **Scale** | Multi-service architecture with parallel pipeline execution |
 | **Performance** | Reduced deployment time by 70% versus manual deployment workflows |
 | **Security** | Secrets managed via AWS Secrets Manager · Role-based RBAC in Kubernetes |
 | **Impact** | Zero-downtime deployments · Automated rollback on health check failure |
-| **Repository** | [View on GitHub](https://github.com/TanUjNimkar) |
+| **Repository** | [end-to-end-devops-cicd-pipeline](https://github.com/TanUjNimkar/end-to-end-devops-cicd-pipeline) |
 
 This pipeline enforces a strict quality gate philosophy — code that does not pass automated validation never reaches production. The system supports blue-green and canary deployment strategies, with full observability integration through Prometheus and Grafana dashboards that surface deployment telemetry in real time.
+
+</details>
+
+---
+
+<details>
+<summary><b>Production-Grade-Cloud-Native-E-Commerce-Platform</b></summary>
+
+<br>
+
+A cloud-native e-commerce platform built with Kubernetes, Docker, Jenkins, Argo CD, Prometheus, Grafana, and AWS following DevOps and GitOps practices. This platform demonstrates enterprise-grade engineering — combining a scalable microservices backend with a fully automated GitOps delivery pipeline and comprehensive observability stack to achieve production-ready reliability from day one.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Kubernetes · Docker · Jenkins · Argo CD · Prometheus · Grafana · AWS · TypeScript |
+| **Scale** | Microservices architecture with horizontal pod autoscaling on AWS EKS |
+| **Performance** | 99.9% uptime SLO · Continuous deployment via GitOps with Argo CD |
+| **Security** | RBAC · Network policies · Pod security contexts · IAM least-privilege |
+| **Impact** | Full GitOps workflow · Unified observability · Zero-touch deployments |
+| **Repository** | [Production-Grade-Cloud-Native-E-Commerce-Platform](https://github.com/TanUjNimkar/Production-Grade-Cloud-Native-E-Commerce-Platform) |
+
+The platform implements a GitOps model where every infrastructure and application change is driven through version-controlled manifests, with Argo CD continuously reconciling cluster state against the desired state in Git. Prometheus collects platform metrics, Grafana surfaces them through pre-built operational dashboards, and alert rules trigger automated remediation workflows for common failure scenarios.
+
+</details>
+
+---
+
+<details>
+<summary><b>terraform-eks-supermario-deployment</b></summary>
+
+<br>
+
+An Infrastructure as Code project that provisions a production-grade Amazon EKS cluster using Terraform and deploys a containerized application workload — demonstrating end-to-end cloud infrastructure automation from cluster creation to application availability with zero manual console operations.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Terraform · AWS EKS · Kubernetes · Helm · IAM · VPC · HCL |
+| **Scale** | Multi-node EKS cluster with managed node groups and autoscaling |
+| **Performance** | Full cluster provisioning under 12 minutes via Terraform automation |
+| **Security** | Least-privilege IAM roles · VPC isolation · Security groups · OIDC provider |
+| **Impact** | Repeatable, version-controlled EKS infrastructure · Eliminated ClickOps |
+| **Repository** | [terraform-eks-supermario-deployment](https://github.com/TanUjNimkar/terraform-eks-supermario-deployment) |
+
+The Terraform configuration follows a modular architecture pattern — VPC, EKS cluster, node groups, and IAM roles are managed as independent modules with remote state stored in S3 with DynamoDB locking. This project serves as a reference implementation for IaC-driven Kubernetes cluster lifecycle management on AWS.
+
+</details>
+
+---
+
+<details>
+<summary><b>nextjs-movie-browser</b></summary>
+
+<br>
+
+A modern, server-side rendered movie browsing application built with Next.js and TypeScript, containerized with Docker and deployed through an automated CI/CD pipeline — demonstrating full-stack cloud-native application delivery with DevOps best practices applied from development through production.
+
+| Attribute | Details |
+|:---|:---|
+| **Stack** | Next.js · TypeScript · Docker · GitHub Actions · AWS · Vercel |
+| **Scale** | Serverless-ready SSR application with optimized build pipeline |
+| **Performance** | Sub-second page loads via SSR · Optimized Docker image with multi-stage builds |
+| **Security** | Environment-based secrets management · Minimal production container surface |
+| **Impact** | Automated build and deployment pipeline · Production-ready containerization |
+| **Repository** | [nextjs-movie-browser](https://github.com/TanUjNimkar/nextjs-movie-browser) |
+
+This project applies DevOps discipline to a full-stack application — multi-stage Docker builds minimize image size, GitHub Actions automates testing and deployment on every commit, and the application architecture is designed for horizontal scaling. It demonstrates that DevOps principles apply equally to application and infrastructure layers.
 
 </details>
 
@@ -148,28 +214,6 @@ A comprehensive Infrastructure as Code framework for provisioning and managing p
 | **Repository** | [View on GitHub](https://github.com/TanUjNimkar) |
 
 The framework follows a modular Terraform architecture with remote state management via S3 and DynamoDB locking, enabling safe concurrent operations across engineering teams. Environment parity between staging and production is enforced at the infrastructure layer, eliminating the classical "works on staging" failure mode.
-
-</details>
-
----
-
-<details>
-<summary><b>Kubernetes Cluster Operations & Monitoring Platform</b></summary>
-
-<br>
-
-A fully operational Kubernetes cluster management system with integrated observability stack, automated scaling policies, namespace isolation, and centralized logging — designed to run stateless microservices at production scale with enterprise-grade reliability targets.
-
-| Attribute | Details |
-|:---|:---|
-| **Stack** | Kubernetes · Helm · Prometheus · Grafana · Loki · Docker · AWS EKS |
-| **Scale** | Multi-node cluster with horizontal pod autoscaling |
-| **Performance** | 99.9% uptime SLO · Sub-second pod recovery on failure |
-| **Security** | Network policies · Pod security contexts · RBAC · Image scanning |
-| **Impact** | Unified observability across all services · Proactive alerting |
-| **Repository** | [View on GitHub](https://github.com/TanUjNimkar) |
-
-The platform incorporates a complete observability pipeline: metrics collected via Prometheus exporters, visualized through Grafana dashboards with pre-built runbooks attached to alert rules, and logs aggregated into Loki with structured query support. On-call response time improved significantly through alert deduplication and automated remediation scripts.
 
 </details>
 
@@ -211,6 +255,8 @@ Engineering and operating cloud infrastructure and automation systems that suppo
 - Architected and maintained Jenkins-based CI/CD pipelines integrating automated testing, Docker builds, ECR pushes, and Kubernetes deployments with zero-downtime rollout strategies
 - Managed AWS infrastructure spanning EC2, VPC, IAM, S3, RDS, and CloudWatch, ensuring security compliance and cost optimization across environments
 - Containerized legacy applications and migrated workloads to Kubernetes, improving resource utilization and deployment consistency
+- Implemented Argo CD-based GitOps workflows, enabling declarative, version-controlled application deployments with automated reconciliation
+- Provisioned production EKS clusters using Terraform, establishing repeatable IaC patterns for cluster lifecycle management
 - Implemented Ansible playbooks for automated Linux server provisioning, configuration management, and security hardening across the server fleet
 - Built monitoring and alerting infrastructure using Prometheus and Grafana, reducing mean time to detection for production incidents
 - Established Infrastructure as Code practices using Terraform, eliminating manual provisioning and enabling reproducible environment creation
@@ -221,6 +267,7 @@ Engineering and operating cloud infrastructure and automation systems that suppo
   <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" />
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?style=flat-square&logo=argo&logoColor=white" />
   <img src="https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white" />
   <img src="https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
@@ -238,8 +285,10 @@ Engineering and operating cloud infrastructure and automation systems that suppo
 
 | Recognition | Details |
 |:---:|:---|
-| CI/CD Pipeline Optimization | Reduced end-to-end deployment time by 70% through pipeline parallelization and cache optimization |
-| Infrastructure Automation | Provisioning time reduced from hours to under 10 minutes via Terraform IaC implementation |
+| CI/CD Pipeline Automation | Designed end-to-end Jenkins pipeline reducing deployment time by 70% with zero manual steps |
+| GitOps Implementation | Delivered full GitOps workflow using Argo CD with automated cluster state reconciliation |
+| EKS Infrastructure as Code | Provisioned production EKS clusters via Terraform eliminating all manual cluster operations |
+| Cloud-Native Platform Delivery | Architected and deployed production-grade e-commerce platform on Kubernetes with full observability |
 | Zero-Downtime Deployments | Achieved 99.9% deployment success rate with automated health checks and rollback mechanisms |
 | Server Fleet Automation | Eliminated manual configuration drift across Linux server fleet using Ansible automation |
 | Incident Response Improvement | Reduced mean time to detection by 60% through structured Prometheus alerting and Grafana runbooks |
@@ -269,8 +318,8 @@ Engineering and operating cloud infrastructure and automation systems that suppo
 
 | Certification | Issuer | Level | Status |
 |:---|:---:|:---:|:---:|
-| AWS Certified Cloud Practitioner | Amazon Web Services | Foundational | Active |
-| AWS Certified Solutions Architect — Associate | Amazon Web Services | Associate | Active |
+| AWS Certified Cloud Practitioner | Amazon Web Services | Foundational | ✅ Active |
+| AWS Certified Solutions Architect — Associate | Amazon Web Services | Associate | ✅ Active |
 
 </div>
 
