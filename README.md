@@ -261,25 +261,6 @@ Engineering and operating cloud infrastructure and automation systems that suppo
 
 <br><br>
 
-**Linux & DevOps**
-
-<img src="https://img.shields.io/badge/Linux%20Administration-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-&nbsp;
-<img src="https://img.shields.io/badge/Docker%20Fundamentals-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-&nbsp;
-<img src="https://img.shields.io/badge/Kubernetes%20Essentials-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" />
-
-<br><br>
-
-**Cisco**
-
-<img src="https://img.shields.io/badge/Cisco%20Networking%20Basics-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" />
-
-<br><br>
-
-**NPTEL**
-
-<img src="https://img.shields.io/badge/NPTEL%20Certified-003366?style=for-the-badge&logo=googlescholar&logoColor=white" />
 
 </div>
 
