@@ -40,7 +40,7 @@
 
 ## About
 
-AWS-certified DevOps Engineer with proven experience designing and deploying cloud-native infrastructure on AWS, automating end-to-end CI/CD pipelines, and orchestrating containerized workloads using Kubernetes and ArgoCD. Skilled in Terraform IaC, Docker, Jenkins, Helm, and DevSecOps practices including code quality gates and container vulnerability scanning.
+AWS-certified DevOps Engineer with proven experience designing and deploying cloud-native infrastructure on AWS, automating CI/CD pipelines end-to-end, and orchestrating containerized workloads using Kubernetes and ArgoCD. Skilled in Terraform IaC, Docker, Jenkins, Helm, and DevSecOps practices including code quality gates and container vulnerability scanning.
 
 Passionate about building scalable, secure, and observable systems — from provisioning production-grade EKS clusters with Terraform to enforcing DevSecOps quality gates across every deployment pipeline.
 
@@ -53,7 +53,7 @@ Passionate about building scalable, secure, and observable systems — from prov
 **Languages & Scripting**
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=bash,python,linux&perline=6" />
+  <img src="https://skillicons.dev/icons?i=bash,python,go,linux&perline=6" />
 </p>
 
 **Cloud & Infrastructure**
@@ -80,6 +80,12 @@ Passionate about building scalable, secure, and observable systems — from prov
   <img src="https://skillicons.dev/icons?i=prometheus,grafana&perline=6" />
 </p>
 
+**Frontend Exploration**
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,javascript&perline=6" />
+</p>
+
 > **Also working with:** ArgoCD · Helm · Cert-Manager · AWS CloudWatch · SonarQube · Trivy
 
 ---
@@ -103,7 +109,7 @@ Passionate about building scalable, secure, and observable systems — from prov
 ## Featured Projects
 
 <details>
-<summary><b>Production-Grade Cloud Native E-Commerce Platform</b></summary>
+<summary><b>🚀 Production-Grade Cloud Native E-Commerce Platform</b></summary>
 
 <br>
 
@@ -118,7 +124,7 @@ Passionate about building scalable, secure, and observable systems — from prov
 </details>
 
 <details>
-<summary><b>End-to-End DevOps CI/CD Pipeline</b></summary>
+<summary><b>⚙️ End-to-End DevOps CI/CD Pipeline</b></summary>
 
 <br>
 
@@ -128,6 +134,110 @@ Passionate about building scalable, secure, and observable systems — from prov
 - Automated containerized deployments to AWS EC2, eliminating manual steps and achieving a **70% reduction** in deployment time while improving release reliability.
 
 **Repository:** [end-to-end-devops-cicd-pipeline](https://github.com/TanUjNimkar/end-to-end-devops-cicd-pipeline)
+
+</details>
+
+<details>
+<summary><b>☸️ AWS EKS GitOps E-Commerce Platform</b></summary>
+
+<br>
+
+**Stack:** AWS EKS · Terraform · ArgoCD · GitOps
+
+- Cloud-native e-commerce platform deployed on AWS EKS using GitOps workflows for continuous, automated, and drift-free delivery.
+
+**Repository:** [aws-eks-gitops-ecommerce-platform](https://github.com/TanUjNimkar/aws-eks-gitops-ecommerce-platform)
+
+</details>
+
+<details>
+<summary><b>🏗️ EKS GitOps 3-Tier Application</b></summary>
+
+<br>
+
+**Stack:** AWS EKS · Kubernetes · ArgoCD · Helm
+
+- Deployed a complete 3-tier application architecture (frontend, backend, database) on Kubernetes using GitOps principles with ArgoCD for automated sync and rollback.
+
+**Repository:** [eks-gitops-3tier-app](https://github.com/TanUjNimkar/eks-gitops-3tier-app)
+
+</details>
+
+<details>
+<summary><b>🔒 Secure Delivery Platform</b></summary>
+
+<br>
+
+**Stack:** DevSecOps · Docker · CI/CD · Security Scanning
+
+- A secure software delivery pipeline incorporating vulnerability scanning, code quality gates, and DevSecOps best practices throughout the deployment lifecycle.
+
+**Repository:** [secure-delivery-platform](https://github.com/TanUjNimkar/secure-delivery-platform)
+
+</details>
+
+<details>
+<summary><b>🧩 Simple Quiz DevOps</b></summary>
+
+<br>
+
+**Stack:** Docker · CI/CD
+
+- A containerized quiz application built as a hands-on project to practice CI/CD pipeline automation and Docker deployment fundamentals.
+
+**Repository:** [simple-quiz-devops](https://github.com/TanUjNimkar/simple-quiz-devops)
+
+</details>
+
+<details>
+<summary><b>🌍 Terraform Bootstrap</b></summary>
+
+<br>
+
+**Stack:** Terraform · AWS
+
+- Reusable Terraform bootstrap configuration for setting up foundational cloud infrastructure, remote backend, and state management for new projects.
+
+**Repository:** [terraform-bootstrap](https://github.com/TanUjNimkar/terraform-bootstrap)
+
+</details>
+
+<details>
+<summary><b>💻 Go Courses API</b></summary>
+
+<br>
+
+**Stack:** Go · REST API
+
+- A backend REST API built in Go for managing course-related data — developed to explore backend engineering alongside DevOps tooling.
+
+**Repository:** [go-courses-api](https://github.com/TanUjNimkar/go-courses-api)
+
+</details>
+
+<details>
+<summary><b>🎬 Next.js Movie Browser</b></summary>
+
+<br>
+
+**Stack:** Next.js · React · JavaScript
+
+- A responsive movie browsing web application built with Next.js and React, showcasing frontend development skills alongside DevOps expertise.
+
+**Repository:** [nextjs-movie-browser](https://github.com/TanUjNimkar/nextjs-movie-browser)
+
+</details>
+
+<details>
+<summary><b>🌐 Portfolio Website</b></summary>
+
+<br>
+
+**Stack:** HTML · CSS · JavaScript
+
+- Personal portfolio website showcasing projects, technical skills, certifications, and professional experience.
+
+**Repository:** [portfolio-](https://github.com/TanUjNimkar/portfolio-)
 
 </details>
 
@@ -267,10 +377,3 @@ open_to:
   - CI/CD & DevSecOps roles
   - Site Reliability Engineering
   - Remote and hybrid engagements globally
-```
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=6A0DAD&height=100&section=footer" />
-</p>
