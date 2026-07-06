@@ -396,3 +396,133 @@ February 2026 — April 2026
 ✅ AWS Certified Cloud Practitioner (CLF-C02)
 
 ---
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=TanUjNimkar&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=TanUjNimkar&theme=algolia&no-frame=true&no-bg=true&column=4"/>
+
+</p>
+
+---
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=TanUjNimkar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/TanUjNimkar/TanUjNimkar/output/github-contribution-grid-snake-dark.svg"/>
+
+</p>
+
+---
+
+# 🎯 Current Focus
+
+```yaml
+Name: Tanuj Nimkar
+
+Role:
+  - AWS Certified DevOps Engineer
+
+Currently Working On:
+  - Production Kubernetes Platforms
+  - GitOps with ArgoCD
+  - Terraform Infrastructure
+  - Jenkins CI/CD Pipelines
+  - DevSecOps Automation
+  - Monitoring with Prometheus & Grafana
+
+Learning:
+  - AWS ECS
+  - AWS EKS
+  - Helm
+  - Istio
+  - Karpenter
+  - Crossplane
+
+Cloud:
+  - AWS
+
+DevOps:
+  - Docker
+  - Jenkins
+  - GitHub Actions
+  - ArgoCD
+  - Terraform
+  - Ansible
+
+Monitoring:
+  - Prometheus
+  - Grafana
+  - CloudWatch
+
+Security:
+  - SonarQube
+  - Trivy
+  - OWASP Dependency Check
+
+Open To:
+  - DevOps Engineer
+  - Cloud Engineer
+  - Platform Engineer
+  - Site Reliability Engineer
+```
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
+<a href="mailto:tanujnimkar.cloud@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/tanuj-nimkar">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/TanUjNimkar">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+⭐ Thank you for visiting my profile!
+
+If you like my work, consider following me or starring my repositories.
+
+</p>
