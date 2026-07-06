@@ -112,3 +112,287 @@ I enjoy designing cloud-native infrastructure, automating CI/CD pipelines, imple
 ---
 
 # 🌟 Featured Projects
+
+<details open>
+<summary><b>🚀 Production-Grade Cloud Native E-Commerce Platform</b></summary>
+
+<br>
+
+Production-ready cloud-native e-commerce platform deployed on AWS EKS using Terraform, GitOps, ArgoCD, Helm, Docker, NGINX Ingress, and AWS CloudWatch.
+
+### Highlights
+
+- ✅ AWS EKS
+- ✅ Terraform Infrastructure as Code
+- ✅ ArgoCD GitOps
+- ✅ Helm Charts
+- ✅ Docker
+- ✅ NGINX Ingress
+- ✅ CloudWatch Monitoring
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/Production-Grade-Cloud-Native-E-Commerce-Platform
+
+</details>
+
+---
+
+<details>
+<summary><b>🔐 Production-Grade DevSecOps GitOps Platform</b></summary>
+
+<br>
+
+An enterprise-grade DevSecOps platform implementing secure CI/CD, GitOps deployment, Kubernetes orchestration, and observability on AWS EKS.
+
+### Technology Stack
+
+- AWS EKS
+- Kubernetes
+- Docker
+- Jenkins
+- SonarQube
+- Trivy
+- OWASP Dependency Check
+- ArgoCD
+- Helm
+- Prometheus
+- Grafana
+
+### Pipeline
+
+```text
+GitHub
+      │
+      ▼
+ Jenkins
+      │
+ ┌────┼────────────┐
+ ▼    ▼            ▼
+OWASP SonarQube  Trivy
+      │
+      ▼
+Docker Build
+      │
+      ▼
+DockerHub
+      │
+      ▼
+Update GitOps Repo
+      │
+      ▼
+ArgoCD
+      │
+      ▼
+Amazon EKS
+      │
+      ▼
+Prometheus
+      │
+      ▼
+Grafana
+```
+
+### Features
+
+- ✅ Secure CI/CD Pipeline
+- ✅ Automated Security Scanning
+- ✅ GitOps Continuous Deployment
+- ✅ Zero Downtime Releases
+- ✅ Kubernetes Self Healing
+- ✅ Monitoring & Observability
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/devsecops-gitops-eks-platform
+
+</details>
+
+---
+
+<details>
+<summary><b>⚙️ End-to-End DevOps CI/CD Pipeline</b></summary>
+
+<br>
+
+Complete DevSecOps CI/CD implementation using Jenkins, Docker, SonarQube, Trivy, GitHub, and AWS EC2.
+
+### Pipeline
+
+```text
+GitHub
+   │
+   ▼
+Jenkins
+   │
+   ▼
+Build
+   │
+   ▼
+SonarQube
+   │
+   ▼
+Trivy
+   │
+   ▼
+Docker Build
+   │
+   ▼
+DockerHub
+   │
+   ▼
+AWS EC2
+```
+
+### Features
+
+- Automated Build
+- Security Scan
+- Docker Deployment
+- Quality Gates
+- Continuous Delivery
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/end-to-end-devops-cicd-pipeline
+
+</details>
+
+---
+
+<details>
+<summary><b>☸️ AWS EKS GitOps E-Commerce Platform</b></summary>
+
+<br>
+
+GitOps-driven e-commerce platform deployed on AWS EKS using Terraform, ArgoCD, Docker, and Helm.
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/aws-eks-gitops-ecommerce-platform
+
+</details>
+
+---
+
+<details>
+<summary><b>🏗️ EKS GitOps Three-Tier Application</b></summary>
+
+<br>
+
+Production-ready frontend, backend, and database deployment on Amazon EKS using GitOps principles.
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/eks-gitops-3tier-app
+
+</details>
+
+---
+
+<details>
+<summary><b>🌍 Terraform Bootstrap</b></summary>
+
+<br>
+
+Reusable Terraform project for bootstrapping AWS infrastructure with remote state backend.
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/terraform-bootstrap
+
+</details>
+
+---
+
+<details>
+<summary><b>🧩 Simple Quiz DevOps</b></summary>
+
+<br>
+
+Dockerized quiz application demonstrating CI/CD automation and deployment workflows.
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/simple-quiz-devops
+
+</details>
+
+---
+
+<details>
+<summary><b>🎬 Next.js Movie Browser</b></summary>
+
+<br>
+
+Responsive movie browser built with Next.js and React.
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/nextjs-movie-browser
+
+</details>
+
+---
+
+<details>
+<summary><b>🌐 Full Stack DevOps Portfolio Website</b></summary>
+
+<br>
+
+Modern portfolio website built using React, Flask, Docker, NGINX, Jenkins, and GitHub Actions.
+
+### Tech Stack
+
+- React
+- Flask
+- Docker
+- NGINX
+- Jenkins
+- GitHub Actions
+
+🔗 Repository
+
+https://github.com/TanUjNimkar/portfolio-
+
+</details>
+
+---
+
+# 💼 Professional Experience
+
+## DevOps Engineer Intern
+### SwiftSoft InfoTech | Hyderabad, India
+
+**Duration**
+
+February 2026 — April 2026
+
+### Responsibilities
+
+- Automated CI/CD pipelines using Jenkins and GitHub Actions.
+- Containerized applications using Docker.
+- Managed Kubernetes workloads.
+- Implemented Infrastructure as Code using Terraform and Ansible.
+- Configured Prometheus and Grafana monitoring.
+- Managed Linux servers.
+- Integrated SonarQube and Trivy into CI/CD workflows.
+
+---
+
+# 🎓 Education
+
+| Degree | Institute | Year |
+|---------|-----------|------|
+| MCA | G.H. Raisoni College of Engineering, Nagpur | 2023–2025 |
+| BCA | Brijlal Biyani Science College, Amravati | 2020–2023 |
+
+---
+
+# 🏆 Certifications
+
+✅ AWS Certified Solutions Architect – Associate (SAA-C03)
+
+✅ AWS Certified Cloud Practitioner (CLF-C02)
+
+---
