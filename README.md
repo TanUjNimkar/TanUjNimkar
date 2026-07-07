@@ -316,9 +316,9 @@ Passionate about building scalable, secure, and observable systems — from prov
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2&cache_seconds=86400" />
   &nbsp;
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2&cache_seconds=86400" />
 </p>
 
 <p align="center">
@@ -339,14 +339,6 @@ Passionate about building scalable, secure, and observable systems — from prov
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=TanUjNimkar&theme=tokyo-night&hide_border=true&area=true&color=8A2BE2&line=6A0DAD&point=ffffff" />
-</p>
-
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/TanUjNimkar/TanUjNimkar/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
 ---
