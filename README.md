@@ -316,7 +316,7 @@ Passionate about building scalable, secure, and observable systems — from prov
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&icon_color=8A2BE2&title_color=8A2BE2" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=TanUjNimkar&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&icon_color=8A2BE2&title_color=8A2BE2" />
   &nbsp;
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TanUjNimkar&layout=compact&theme=tokyonight&hide_border=true&title_color=8A2BE2" />
 </p>
