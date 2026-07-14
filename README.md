@@ -3,15 +3,15 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=DevOps+Engineer+Intern+%40+SwiftSoft+InfoTech;AWS+Certified+Cloud+%26+DevOps+Practitioner;CI%2FCD+Automation+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD;Infrastructure+as+Code+with+Terraform+%26+Ansible;DevSecOps+%7C+SonarQube+%7C+Trivy+%7C+Observability;Building+Scalable%2C+Secure%2C+and+Observable+Systems." />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=8A2BE2&center=true&vCenter=true&width=900&lines=DevOps+Engineer+%7C+Ex-Intern+%40+SwiftSoft+InfoTech;AWS+Certified+Cloud+%26+DevOps+Practitioner;CI%2FCD+Automation+%7C+Docker+%7C+Kubernetes+%7C+ArgoCD;Infrastructure+as+Code+with+Terraform+%26+Ansible;DevSecOps+%7C+SonarQube+%7C+Trivy+%7C+Observability;Building+Scalable%2C+Secure%2C+and+Observable+Systems." />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/DevOps%20Engineer%20Intern-SwiftSoft%20InfoTech-6A0DAD?style=for-the-badge&logo=rocket&logoColor=white" />
+  <img src="https://img.shields.io/badge/Ex%20DevOps%20Engineer%20Intern-SwiftSoft%20InfoTech-6A0DAD?style=for-the-badge&logo=rocket&logoColor=white" />
   &nbsp;
   <img src="https://img.shields.io/badge/Location-Nagpur%2C%20India-4B0082?style=for-the-badge&logo=googlemaps&logoColor=white" />
   &nbsp;
-  <img src="https://img.shields.io/badge/Open%20To-Opportunities-5B2C6F?style=for-the-badge&logo=handshake&logoColor=white" />
+  <img src="https://img.shields.io/badge/Open%20To-Full%20Time%20Opportunities-5B2C6F?style=for-the-badge&logo=handshake&logoColor=white" />
 </p>
 
 <p align="center">
@@ -247,8 +247,8 @@ Passionate about building scalable, secure, and observable systems — from prov
 
 <div align="center">
 
-### DevOps Engineer Intern — SwiftSoft InfoTech
-**Hyderabad, India** · Feb 2026 – Apr 2026
+### Ex-DevOps Engineer Intern — SwiftSoft InfoTech
+**Hyderabad, India** · Feb 2026 – Apr 2026 *(Completed)*
 
 </div>
 
@@ -355,8 +355,8 @@ Passionate about building scalable, secure, and observable systems — from prov
 
 ```yaml
 engineer: Tanuj Nimkar
-role: DevOps Engineer Intern
-organization: SwiftSoft InfoTech
+role: DevOps Engineer
+previous_role: Ex-DevOps Engineer Intern @ SwiftSoft InfoTech
 location: Nagpur, India
 
 skills:
